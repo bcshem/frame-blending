@@ -1,0 +1,4 @@
+input_video_directory_path C:\Users\main\Videos
+output_video_directory_path C:\Users\main\Desktop\RENDER
+output_video_fps 30
+frame_blending_mode g/8
